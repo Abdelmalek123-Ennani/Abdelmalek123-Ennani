@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi Folks 👋
 
-<!--
-**Abdelmalek123-Ennani/Abdelmalek123-Ennani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm Abdelmalek Ennani,
+Immensely passionate about web development and related technologies,
+and I aim to use my skills to enhance and improve the lives of people.
+I am a coding enthusiast, and I love to tinker with tech.
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... NodeJs
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
