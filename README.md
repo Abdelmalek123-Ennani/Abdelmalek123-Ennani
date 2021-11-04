@@ -6,6 +6,8 @@
  
 </p>
 
+<img align="right" src="https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47hdfkq1r2galv27743y9m1l2h1l3suy4h78xnuon1&rid=giphy.gif&ct=g" />
+
 
 I'm Abdelmalek Ennani, a <em>Software Enginnering Student at <a href="https://www.enset-media.ac.ma/">Enset Mohammedia</a><br/>
 Immensely passionate about web development and related technologies,
