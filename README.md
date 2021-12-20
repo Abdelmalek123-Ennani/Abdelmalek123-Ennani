@@ -14,6 +14,39 @@ Immensely passionate about web development and related technologies,
 and I aim to use my skills to enhance and improve the lives of people.
 I am a coding enthusiast, and I love to tinker with tech.
 
+<!--  
+ ```javascript
+const Abdelmalek = {
+  firstName: "Abdelmalek",
+  lastName : "Ennani",
+  status   : "software engineering student",
+  school   : "ENSET Mohammedia",
+  passionateAbout : "Web developement",
+  frontEnd : [
+     "javascript",
+     "CSS",
+     "ReactJS",
+     "Bootstrap",
+     "html",
+     "Sass",
+     "Styled-components"
+  ],
+  backEnd : [
+     "PHP",
+     "mysql",
+     "Laravel",
+     "PHP OOP"
+  ],
+  others : [
+     "Git/github",
+     "axios",
+     "ajax",
+     "react-reveal",
+     "react-redux"
+  ]
+}
+``` -->
+
 - 🔭 I’m currently preparing my engineering degree!!
 - 🌱 I’m currently Learning NodeJs!! 
 - 👯 I love to meet new people!!!
