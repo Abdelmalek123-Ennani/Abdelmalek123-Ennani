@@ -6,7 +6,7 @@
  
 </p>
 
-<img align="right" src="https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47hdfkq1r2galv27743y9m1l2h1l3suy4h78xnuon1&rid=giphy.gif&ct=g" />
+<img align="right" src="https://github.com/Abdelmalek123-Ennani/Abdelmalek123-Ennani/blob/master/giphy.gif" />
 
 
 I'm Abdelmalek Ennani, a <em>Software Engineering Student at <a href="https://www.enset-media.ac.ma/">Enset Mohammedia</a><br/>
@@ -14,7 +14,7 @@ Immensely passionate about web development and related technologies,
 and I aim to use my skills to enhance and improve the lives of people.
 I am a coding enthusiast, and I love to tinker with tech.
 
-<!--  
+  
  ```javascript
 const Abdelmalek = {
   firstName: "Abdelmalek",
@@ -45,7 +45,7 @@ const Abdelmalek = {
      "react-redux"
   ]
 }
-``` -->
+``` 
 
 - 🔭 I’m currently preparing my engineering degree!!
 - 🌱 I’m currently Learning NodeJs!! 
