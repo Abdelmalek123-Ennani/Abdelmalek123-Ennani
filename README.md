@@ -24,7 +24,7 @@ Immensely passionate about web development and related technologies,
 and I aim to use my skills to enhance and improve the lives of people.
 I am a coding enthusiast, and I love to tinker with tech.
 
- <img align="right" width="400" src="https://github.com/Abdelmalek123-Ennani/Abdelmalek123-Ennani/blob/master/giphy.gif" />
+ <img align="right" width="400" height="250" src="https://github.com/Abdelmalek123-Ennani/Abdelmalek123-Ennani/blob/master/giphy.gif" />
 
   ### :man_office_worker: About Me :
   - 🔭 I’m currently preparing my engineering degree!!
