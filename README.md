@@ -59,13 +59,25 @@ I am a coding enthusiast, and I love to tinker with tech.
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdelmalek123-Ennani&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelmalek123-Ennani&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelmalek123-Ennani&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
  
  
   
   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 <!--   
-  
+ 
   
   
 [![Linkedin Badge](https://img.shields.io/badge/-Abdelmalek.ennani-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelmalek-ennani-5304411b1/) [![Mail Badge](https://img.shields.io/badge/-@Abdelmalek.ennani-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/abdelmalik_09/) [![Mail Badge](https://img.shields.io/badge/-Abdelmalek.ennani-c0392b?style=flat&labelColor=c0392b&logo=twitter&logoColor=white)](https://twitter.com/09_abdelmalek)
