@@ -24,6 +24,8 @@ Immensely passionate about web development and related technologies,
 and I aim to use my skills to enhance and improve the lives of people.
 I am a coding enthusiast, and I love to tinker with tech.
 
+ <img align="right" width="400" src="https://github.com/Abdelmalek123-Ennani/Abdelmalek123-Ennani/blob/master/giphy.gif" />
+
   ### :man_office_worker: About Me :
   - 🔭 I’m currently preparing my engineering degree!!
   - 🌱 I’m currently Learning NodeJs!! 
@@ -56,9 +58,10 @@ I am a coding enthusiast, and I love to tinker with tech.
 ---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdelmalek123-Ennani&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
- <img align="right" width="300" src="https://github.com/Abdelmalek123-Ennani/Abdelmalek123-Ennani/blob/master/giphy.gif" />
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelmalek123-Ennani&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
+ 
+ 
   
   
 <!--   
