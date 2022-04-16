@@ -1,6 +1,6 @@
 <!-- ## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋 -->
 
-<div id="header" align="center">
+<div id="header" align="center"> 
  <img src="https://media.giphy.com/media/OF0yOAufcWLfi/giphy.gif" width="450" />
   <div id="badges">
       <a href="https://www.linkedin.com/in/abdelmalek-ennani-5304411b1/">
