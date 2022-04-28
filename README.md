@@ -17,7 +17,11 @@
    <h1>
      hey Coders
      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+       <br />
   </h1>
+  <h4>
+      <blockquote><q><small>Make it work, make it right, make it fast</small>.</q> – Kent Beck </blockquote>
+  </h4>
 </div>
 I'm Abdelmalek Ennani, a <em>Software Engineering Student at <a href="https://www.enset-media.ac.ma/">Enset Mohammedia</a><br/>
 Immensely passionate about web development and related technologies,
@@ -34,6 +38,8 @@ I am a coding enthusiast, and I love to tinker with tech.
   - ⚡ Fun fact: I'm a javascript lover!!
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abdelmalek-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdelmalek-ennani-5304411b1/)
   ---
+ 
+
   
   ### :hammer_and_wrench: Languages and Tools :
   <div>
