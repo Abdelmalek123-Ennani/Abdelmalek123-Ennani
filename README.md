@@ -153,6 +153,11 @@ const Abdelmalek = {
 ![Laravel](https://img.shields.io/badge/-laravel-black?style=flat-square&logo=laravel)
 ![Styled](https://img.shields.io/badge/-styledComponents-black?style=flat-square&logo=styledComponents)
    -->
+ 
+ ## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
   
  ##
   <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
