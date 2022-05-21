@@ -154,11 +154,11 @@ const Abdelmalek = {
 ![Styled](https://img.shields.io/badge/-styledComponents-black?style=flat-square&logo=styledComponents)
    -->
  
-<!--  ## My Latest Blog Posts 👇
+ ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 - [different ways to iterate over an array JavaScript](https://abdelmalek.hashnode.dev/different-ways-to-iterate-over-an-array-javascript-cl2t594vc00acq4nvh5mq5z1t)
 - [Different Ways to center a div 😮☕](https://abdelmalek.hashnode.dev/different-ways-to-center-a-div-cl2saz3uk020sclnvbgtbawzs)
-<!-- HASHNODE_BLOG:END --> -->
+<!-- HASHNODE_BLOG:END --> 
 
   
  ##
