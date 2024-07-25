@@ -23,7 +23,7 @@
       <blockquote><q><small>Make it work, make it right, make it fast</small>.</q> – Kent Beck </blockquote>
   </h4>
 </div>
-I'm Abdelmalek Ennani, a <em>Software Engineering Student at <a href="https://www.enset-media.ac.ma/">Enset Mohammedia</a><br/>
+I'm Abdelmalek Ennani, a <em>FULL StACK DEVELOPER</a><br/>
 Immensely passionate about web development and related technologies,
 and I aim to use my skills to enhance and improve the lives of people.
 I am a coding enthusiast, and I love to tinker with tech.
