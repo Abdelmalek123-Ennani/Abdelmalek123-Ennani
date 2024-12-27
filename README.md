@@ -24,9 +24,8 @@
   </h4>
 </div>
 I'm Abdelmalek Ennani, a <em>FULL STACK DEVELOPER</a><br/>
-Immensely passionate about web development and related technologies,
-and I aim to use my skills to enhance and improve the lives of people.
-I am a coding enthusiast, and I love to tinker with tech.
+Passionate about software engineering, I enjoy creating innovative solutions that make a difference. <br/>
+With a love for coding and problem-solving, I’m always exploring new ways to harness technology effectively.
 
  <img align="right" width="400" height="250" src="https://github.com/Abdelmalek123-Ennani/Abdelmalek123-Ennani/blob/master/giphy.gif" />
 
@@ -36,7 +35,7 @@ I am a coding enthusiast, and I love to tinker with tech.
   - 👯 I love to meet new people!!!
   - 💬 Ask me about web developement!!!
   - ⚡ Fun fact: I'm a javascript lover!!
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abdelmalek-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdelmalek-ennani-5304411b1/)
+  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abdelmalek-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdelmalek-ennani-5304411b1/) [![Facebook Badge](https://img.shields.io/badge/-Abdelmalek-blue?style=flat&logo=Facebook&logoColor=white)](https://web.facebook.com/abdelmalek.devs)
   ---
  
 
