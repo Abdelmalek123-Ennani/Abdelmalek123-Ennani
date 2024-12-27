@@ -30,11 +30,11 @@ With a love for coding and problem-solving, I’m always exploring new ways to h
  <img align="right" width="400" height="250" src="https://github.com/Abdelmalek123-Ennani/Abdelmalek123-Ennani/blob/master/giphy.gif" />
 
   ### :man_office_worker: About Me :
-  - 🔭 I’m currently preparing my engineering degree!!
-  - 🌱 I’m currently Learning NodeJs!! 
-  - 👯 I love to meet new people!!!
-  - 💬 Ask me about web developement!!!
-  - ⚡ Fun fact: I'm a javascript lover!!
+  - 🔭 State Engineer in Software Engineering
+  - 🌱 Constantly exploring new tools and approaches to improve efficiency.
+  - 👯 Interested in technology and innovation.
+  - 💬 Interested in technology and innovation.
+  - ⚡ Fun fact: <b>I’ve been known to talk to my code as if it can hear me—sometimes it helps!!!</b>
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abdelmalek-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdelmalek-ennani-5304411b1/) [![Facebook Badge](https://img.shields.io/badge/-Abdelmalek-blue?style=flat&logo=Facebook&logoColor=white)](https://web.facebook.com/abdelmalek.devs)
   ---
  
