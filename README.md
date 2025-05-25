@@ -23,7 +23,7 @@
       <blockquote><q><small>Make it work, make it right, make it fast</small>.</q> – Kent Beck </blockquote>
   </h4>
 </div>
-I'm Abdelmalek Ennani, a <em>FULL STACK DEVELOPER</a><br/>
+I'm Abdelmalek Ennani, a <em>FULL STACK ENGINEER</a><br/>
 Passionate about software engineering, I enjoy creating innovative solutions that make a difference. <br/>
 With a love for coding and problem-solving, I’m always exploring new ways to harness technology effectively.
 
