@@ -32,10 +32,10 @@ I specialize in designing, building, and deploying **scalable web applications**
 ---
 
 ## 🚀 What I Do
-- **Frontend** → Craft responsive, modern UIs with **Angular, React, Ngrx ,Redux, JavaScript, TypeScript, Tailwind**  
-- **Backend** → Build robust APIs and services with **Spring Boot, Flask, Java, Python**  
-- **Databases** → Work with **MySQL, PostgreSQL, MongoDB** for structured & unstructured data  
-- **Cloud & DevOps** → Deploy apps and pipelines with **Google Cloud Platform (GCP), Airflow, GitHub Actions**  
+- **Frontend** → Craft responsive, modern UIs with **Angular, Ngrx, React, Redux, JavaScript, TypeScript, Tailwind**  
+- **Backend** → Build robust APIs and services with **Flask, Spring Boot, Python, Java**  
+- **Databases** → Work with **MySQL, PostgreSQL, MongoDB, Qdrant, weaviate** for structured & unstructured data  
+- **Cloud & DevOps** → Deploy apps and pipelines with **Docker, Kubernetes, Google Cloud Platform (GCP), Airflow, GitHub Actions**  
 - **ETL / Data Engineering** → Build **data pipelines** (CSV, SFTP, DWH, BigQuery) to transform and sync with tools like **HubSpot**  
 
 ---
