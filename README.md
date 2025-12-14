@@ -39,13 +39,6 @@ I specialize in designing, building, and deploying **scalable web applications**
 - **ETL / Data Engineering** → Build **data pipelines** (CSV, SFTP, DWH, BigQuery) to transform and sync with tools like **HubSpot**  
 
 ---
-## ✍️ Latest Blog Posts
-<!-- HASHNODE_BLOG:START -->
-- [Different ways to iterate over an array in JavaScript](https://abdelmalek.hashnode.dev/different-ways-to-iterate-over-an-array-javascript-cl2t594vc00acq4nvh5mq5z1t)
-- [Different ways to center a div 😮☕](https://abdelmalek.hashnode.dev/different-ways-to-center-a-div-cl2saz3uk020sclnvbgtbawzs)
-<!-- HASHNODE_BLOG:END -->
-
----
 
 ## 🌍 Let’s Connect
 <em><b>I love connecting with developers worldwide</b>. If you’re into **Full Stack, Cloud, or Data Engineering**, feel free to say hi — I’d be happy to collaborate 🚀</em>
